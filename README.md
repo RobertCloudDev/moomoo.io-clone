@@ -5,7 +5,7 @@ built in Khan Academy's ProcessingJS between February and March 2021 and
 released on 22 March 2021. All of the artwork — roughly 1,500 lines of it — is
 drawn in code. There are no image files anywhere in this project.
 
-**[Play it here](https://RobertCloudDev-cloud.github.io/moomoo.io-clone/)**
+**[Play it here](https://RobertCloudDev.github.io/moomoo.io-clone/)**
 
 
 |  |  |
