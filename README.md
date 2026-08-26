@@ -8,7 +8,7 @@ drawn in code. There are no image files anywhere in this project.
 **[Play it here](https://robertbrowndev-cloud.github.io/moomoo.io-clone/)** — replace this link with your GitHub Pages URL.
 
 
-|  |  |  |
+|  |  |
 | :---: | :---: |
 | ![MooMoo.io](docs/screenshot.png) | ![MooMoo.io](docs/screenshot2.png) |
 
